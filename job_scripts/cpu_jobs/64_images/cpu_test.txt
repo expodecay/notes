@@ -1,0 +1,3961 @@
+Job 15684665.pbspl1.nas.nasa.gov started on Tue Mar 28 10:18:48 PDT 2023
+The job requested the following resources:
+    ncpus=32
+    place=scatter:excl
+    walltime=01:00:00
+
+PBS set the following environment variables:
+        FORT_BUFFERED = 1
+                   TZ = PST8PDT
+
+On r147i1n3:
+Current directory is /home5/rrramir2/job_scripts/cpu_jobs
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_50.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_49.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_9.jpg"
+"/nobackup/rrramir2/64/img_62.jpg"
+"/nobackup/rrramir2/64/img_8.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_35.jpg"
+"/nobackup/rrramir2/64/img_40.jpg"
+"/nobackup/rrramir2/64/img_31.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_53.jpg"
+"/nobackup/rrramir2/64/img_21.jpg"
+"/nobackup/rrramir2/64/img_26.jpg"
+"/nobackup/rrramir2/64/img_63.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+"/nobackup/rrramir2/64/img_58.jpg"
+"/nobackup/rrramir2/64/img_0.jpg"
+"/nobackup/rrramir2/64/img_14.jpg"
+"/nobackup/rrramir2/64/img_54.jpg"
+"/nobackup/rrramir2/64/img_19.jpg"
+"/nobackup/rrramir2/64/img_15.jpg"
+"/nobackup/rrramir2/64/img_56.jpg"
+"/nobackup/rrramir2/64/img_5.jpg"
+"/nobackup/rrramir2/64/img_32.jpg"
+"/nobackup/rrramir2/64/img_28.jpg"
+"/nobackup/rrramir2/64/img_13.jpg"
+"/nobackup/rrramir2/64/img_25.jpg"
+"/nobackup/rrramir2/64/img_47.jpg"
+"/nobackup/rrramir2/64/img_55.jpg"
+"/nobackup/rrramir2/64/img_41.jpg"
+"/nobackup/rrramir2/64/img_43.jpg"
+"/nobackup/rrramir2/64/img_16.jpg"
+"/nobackup/rrramir2/64/img_42.jpg"
+"/nobackup/rrramir2/64/img_51.jpg"
+"/nobackup/rrramir2/64/img_48.jpg"
+"/nobackup/rrramir2/64/img_30.jpg"
+"/nobackup/rrramir2/64/img_36.jpg"
+"/nobackup/rrramir2/64/img_29.jpg"
+"/nobackup/rrramir2/64/img_20.jpg"
+"/nobackup/rrramir2/64/img_2.jpg"
+"/nobackup/rrramir2/64/img_12.jpg"
+"/nobackup/rrramir2/64/img_37.jpg"
+"/nobackup/rrramir2/64/img_59.jpg"
+"/nobackup/rrramir2/64/img_23.jpg"
+"/nobackup/rrramir2/64/img_45.jpg"
+"/nobackup/rrramir2/64/img_52.jpg"
+"/nobackup/rrramir2/64/img_10.jpg"
+"/nobackup/rrramir2/64/img_27.jpg"
+"/nobackup/rrramir2/64/img_60.jpg"
+"/nobackup/rrramir2/64/img_17.jpg"
+"/nobackup/rrramir2/64/img_11.jpg"
+"/nobackup/rrramir2/64/img_38.jpg"
+"/nobackup/rrramir2/64/img_46.jpg"
+"/nobackup/rrramir2/64/img_24.jpg"
+"/nobackup/rrramir2/64/img_61.jpg"
+"/nobackup/rrramir2/64/img_4.jpg"
+"/nobackup/rrramir2/64/img_57.jpg"
+"/nobackup/rrramir2/64/img_39.jpg"
+"/nobackup/rrramir2/64/img_34.jpg"
+"/nobackup/rrramir2/64/img_22.jpg"
+"/nobackup/rrramir2/64/img_1.jpg"
+"/nobackup/rrramir2/64/img_44.jpg"
+"/nobackup/rrramir2/64/img_7.jpg"
+"/nobackup/rrramir2/64/img_33.jpg"
+"/nobackup/rrramir2/64/img_3.jpg"
+"/nobackup/rrramir2/64/img_18.jpg"
+"/nobackup/rrramir2/64/img_6.jpg"
+PROCESSOR............................. 6 STARTIDX: - 12 ENDIDX - 13
+PROCESSOR............................. 3 STARTIDX: - 6 ENDIDX - 7
+PROCESSOR............................. 5 STARTIDX: - 10 ENDIDX - 11
+PROCESSOR............................. 9 STARTIDX: - 18 ENDIDX - 19
+PROCESSOR............................. 10 STARTIDX: - 20 ENDIDX - 21
+PROCESSOR............................. 12 STARTIDX: - 24 ENDIDX - 25
+PROCESSOR............................. 14 STARTIDX: - 28 ENDIDX - 29
+PROCESSOR............................. 15 STARTIDX: - 30 ENDIDX - 31
+PROCESSOR............................. 17 STARTIDX: - 34 ENDIDX - 35
+PROCESSOR............................. 18 STARTIDX: - 36 ENDIDX - 37
+PROCESSOR............................. 20 STARTIDX: - 40 ENDIDX - 41
+PROCESSOR............................. 21 STARTIDX: - 42 ENDIDX - 43
+PROCESSOR............................. 23 STARTIDX: - 46 ENDIDX - 47
+PROCESSOR............................. 24 STARTIDX: - 48 ENDIDX - 49
+PROCESSOR............................. 25 STARTIDX: - 50 ENDIDX - 51
+PROCESSOR............................. 26 STARTIDX: - 52 ENDIDX - 53
+PROCESSOR............................. 27 STARTIDX: - 54 ENDIDX - 55
+PROCESSOR............................. 28 STARTIDX: - 56 ENDIDX - 57
+PROCESSOR............................. 29 STARTIDX: - 58 ENDIDX - 59
+PROCESSOR............................. 30 STARTIDX: - 60 ENDIDX - 61
+PROCESSOR............................. 31 STARTIDX: - 62 ENDIDX - 63
+num_images_input................................................64
+PROCESSOR............................. 0 STARTIDX: - 0  ENDIDX - 1
+PROCESSOR............................. 1 STARTIDX: - 2 ENDIDX - 3
+PROCESSOR............................. 2 STARTIDX: - 4 ENDIDX - 5
+PROCESSOR............................. 4 STARTIDX: - 8 ENDIDX - 9
+PROCESSOR............................. 7 STARTIDX: - 14 ENDIDX - 15
+PROCESSOR............................. 8 STARTIDX: - 16 ENDIDX - 17
+PROCESSOR............................. 11 STARTIDX: - 22 ENDIDX - 23
+PROCESSOR............................. 13 STARTIDX: - 26 ENDIDX - 27
+PROCESSOR............................. 16 STARTIDX: - 32 ENDIDX - 33
+PROCESSOR............................. 19 STARTIDX: - 38 ENDIDX - 39
+PROCESSOR............................. 22 STARTIDX: - 44 ENDIDX - 45
+============= processor[6]============ loading image... /nobackup/rrramir2/64/img_13.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[3]============ loading image... /nobackup/rrramir2/64/img_7.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[27]============ loading image... /nobackup/rrramir2/64/img_55.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[16]============ loading image... /nobackup/rrramir2/64/img_33.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[14]============ loading image... /nobackup/rrramir2/64/img_29.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[22]============ loading image... /nobackup/rrramir2/64/img_45.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[8]============ loading image... /nobackup/rrramir2/64/img_17.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[13]============ loading image... /nobackup/rrramir2/64/img_27.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[9]============ loading image... /nobackup/rrramir2/64/img_19.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[28]============ loading image... /nobackup/rrramir2/64/img_57.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[26]============ loading image... /nobackup/rrramir2/64/img_53.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[7]============ loading image... /nobackup/rrramir2/64/img_15.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[24]============ loading image... /nobackup/rrramir2/64/img_49.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[4]============ loading image... /nobackup/rrramir2/64/img_9.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[18]============ loading image... /nobackup/rrramir2/64/img_37.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[1]============ loading image... /nobackup/rrramir2/64/img_3.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[11]============ loading image... /nobackup/rrramir2/64/img_23.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[25]============ loading image... /nobackup/rrramir2/64/img_51.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[29]============ loading image... /nobackup/rrramir2/64/img_59.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[19]============ loading image... /nobackup/rrramir2/64/img_39.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[5]============ loading image... /nobackup/rrramir2/64/img_11.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[17]============ loading image... /nobackup/rrramir2/64/img_35.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[23]============ loading image... /nobackup/rrramir2/64/img_47.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[10]============ loading image... /nobackup/rrramir2/64/img_21.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[0]============ loading image... /nobackup/rrramir2/64/img_1.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[30]============ loading image... /nobackup/rrramir2/64/img_61.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[20]============ loading image... /nobackup/rrramir2/64/img_41.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[21]============ loading image... /nobackup/rrramir2/64/img_43.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[15]============ loading image... /nobackup/rrramir2/64/img_31.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[2]============ loading image... /nobackup/rrramir2/64/img_5.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[12]============ loading image... /nobackup/rrramir2/64/img_25.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[31]============ loading image... /nobackup/rrramir2/64/img_63.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+Features in image #1: 10461
+Features in image #1: 10525
+Features in image #1: 10466
+Features in image #1: 10407
+Features in image #1: 10194
+Features in image #1: 10460
+Features in image #1: 10494
+Features in image #1: 10398
+Features in image #1: 10571
+Features in image #1: 10544
+Features in image #1: 10477
+Features in image #1: 10581
+Features in image #1: 10564
+Features in image #1: 10478
+Features in image #1: 10535
+Features in image #1: 10444
+Features in image #1: 10326
+Features in image #1: 10570
+Features in image #1: 10503
+Features in image #1: 10558
+Features in image #1: 10442
+Features in image #1: 10483
+Features in image #1: 10350
+Features in image #1: 10540
+Features in image #1: 10380
+Features in image #1: 10442
+Features in image #1: 10550
+Features in image #1: 10703
+Features in image #1: 10426
+Features in image #1: 10587
+Features in image #1: 10437
+Features in image #1: 10313
+Features in image #2: 10407
+Finding features, time: 4.94126 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10521
+Finding features, time: 4.89956 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10488
+Finding features, time: 5.0005 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10560
+Finding features, time: 4.99604 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10474
+Finding features, time: 5.00354 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10498
+Finding features, time: 5.03648 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10538
+Finding features, time: 5.06556 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10231
+Finding features, time: 5.01839 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10563
+Features in image #2: 10529
+Features in image #2: 10397
+Finding features, time: 5.0334 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Finding features, time: 5.01238 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Finding features, time: 4.92077 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10518
+Finding features, time: 5.08654 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10615
+Finding features, time: 5.05741 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10586
+Features in image #2: 10566
+Finding features, time: 5.03385 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Finding features, time: 5.07722 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10417
+Finding features, time: 4.99219 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10436
+Finding features, time: 5.09 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10393
+Finding features, time: 5.07322 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10408
+Finding features, time: 5.1033 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10580
+Features in image #2: 10666
+Finding features, time: 5.09949 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Finding features, time: 5.03227 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10507
+Finding features, time: 5.0971 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10452
+Finding features, time: 5.03704 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10491
+Finding features, time: 5.04062 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10394
+Finding features, time: 5.10226 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10314
+Finding features, time: 5.05485 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10354
+Finding features, time: 5.10772 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10520
+Finding features, time: 5.12592 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10553
+Finding features, time: 5.12252 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10488
+Finding features, time: 5.09909 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10406
+Finding features, time: 4.38437 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10483
+Finding features, time: 5.10138 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.391433 sec
+Pairwise matching, time: 0.391471 s
+Warping images (auxiliary)... 
+Warping images, time: 0.0031503 s
+Compensating exposure...
+Compensating exposure, time: 5.9616e-05 s
+Finding seams...
+Finding seams, time: 0.0141973 s
+Compositing...
+Pairwise matching, time: 0.398899 sec
+Pairwise matching, time: 0.398935 s
+Pairwise matching, time: 0.361038 sec
+Pairwise matching, time: 0.361083 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00320398 s
+Compensating exposure...
+Compensating exposure, time: 6.7017e-05 s
+Finding seams...
+Finding seams, time: 0.0104003 s
+Compositing...
+Pairwise matching, time: 0.410334 sec
+Pairwise matching, time: 0.410368 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00308211 s
+Compensating exposure...
+Compensating exposure, time: 5.0644e-05 s
+Finding seams...
+Pairwise matching, time: 0.413411 sec
+Pairwise matching, time: 0.413445 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00308855 s
+Compensating exposure...
+Compensating exposure, time: 5.0272e-05 s
+Finding seams...
+Pairwise matching, time: 0.40579 sec
+Pairwise matching, time: 0.405817 s
+Pairwise matching, time: 0.407849 sec
+Pairwise matching, time: 0.407874 s
+Warping images (auxiliary)... 
+Pairwise matching, time: 0.407465 sec
+Pairwise matching, time: 0.407501 s
+Warping images, time: 0.00307543 s
+Compensating exposure...
+Compensating exposure, time: 5.0156e-05 s
+Finding seams...
+Warping images (auxiliary)... 
+Warping images (auxiliary)... 
+Pairwise matching, time: 0.374698 sec
+Pairwise matching, time: 0.374737 s
+Warping images (auxiliary)... 
+Warping images, time: 0.003108 s
+Compensating exposure...
+Compensating exposure, time: 5.3956e-05 s
+Finding seams...
+Warping images, time: 0.00302803 s
+Compensating exposure...
+Compensating exposure, time: 4.4754e-05 s
+Finding seams...
+Warping images, time: 0.00302935 s
+Compensating exposure...
+Compensating exposure, time: 5.6311e-05 s
+Finding seams...
+Pairwise matching, time: 0.37825 sec
+Pairwise matching, time: 0.378295 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00316264 s
+Compensating exposure...
+Compensating exposure, time: 6.4501e-05 s
+Finding seams...
+Pairwise matching, time: 0.381826 sec
+Pairwise matching, time: 0.381867 s
+Pairwise matching, time: 0.412663 sec
+Pairwise matching, time: 0.412698 s
+Pairwise matching, time: 0.413959 sec
+Pairwise matching, time: 0.413987 s
+Warping images (auxiliary)... 
+Warping images (auxiliary)... 
+Warping images (auxiliary)... 
+Pairwise matching, time: 0.414821 sec
+Pairwise matching, time: 0.414847 s
+Pairwise matching, time: 0.413485 sec
+Pairwise matching, time: 0.413511 s
+Pairwise matching, time: 0.377948 sec
+Pairwise matching, time: 0.377981 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00308449 s
+Compensating exposure...
+Compensating exposure, time: 5.3116e-05 s
+Finding seams...
+Warping images (auxiliary)... 
+Warping images, time: 0.00309478 s
+Compensating exposure...
+Compensating exposure, time: 4.7449e-05 s
+Finding seams...
+Warping images, time: 0.00311223 s
+Compensating exposure...
+Compensating exposure, time: 4.1036e-05 s
+Finding seams...
+Warping images, time: 0.00301153 s
+Compensating exposure...
+Compensating exposure, time: 4.6654e-05 s
+Finding seams...
+Warping images, time: 0.00305408 s
+Compensating exposure...
+Compensating exposure, time: 4.9359e-05 s
+Finding seams...
+Pairwise matching, time: 0.412221 sec
+Pairwise matching, time: 0.412254 s
+Pairwise matching, time: 0.377562 sec
+Pairwise matching, time: 0.377597 s
+Warping images (auxiliary)... 
+Pairwise matching, time: 0.408618 sec
+Pairwise matching, time: 0.408644 s
+Warping images (auxiliary)... 
+Warping images (auxiliary)... 
+Warping images, time: 0.00309499 s
+Compensating exposure...
+Compensating exposure, time: 5.0725e-05 s
+Finding seams...
+Warping images, time: 0.00304987 s
+Compensating exposure...
+Compensating exposure, time: 4.3285e-05 s
+Finding seams...
+Pairwise matching, time: 0.416884 sec
+Pairwise matching, time: 0.416913 s
+Warping images, time: 0.00301228 s
+Compensating exposure...
+Compensating exposure, time: 3.8325e-05 s
+Finding seams...
+Pairwise matching, time: 0.420535 sec
+Pairwise matching, time: 0.42056 s
+Finding seams, time: 0.0105829 s
+Compositing...
+Pairwise matching, time: 0.416506 sec
+Pairwise matching, time: 0.416536 s
+Warping images (auxiliary)... 
+Pairwise matching, time: 0.384742 sec
+Pairwise matching, time: 0.384777 s
+Pairwise matching, time: 0.377481 sec
+Pairwise matching, time: 0.377508 s
+Warping images (auxiliary)... 
+Warping images (auxiliary)... 
+Warping images, time: 0.00311676 s
+Compensating exposure...
+Compensating exposure, time: 5.4686e-05 s
+Finding seams...
+Warping images, time: 0.00314125 s
+Compensating exposure...
+Warping images, time: 0.00302301 s
+Compensating exposure...
+Compensating exposure, time: 5.0004e-05 s
+Finding seams...
+Compensating exposure, time: 4.3648e-05 s
+Finding seams...
+Pairwise matching, time: 0.415381 sec
+Pairwise matching, time: 0.415417 s
+Warping images (auxiliary)... 
+Pairwise matching, time: 0.413609 sec
+Pairwise matching, time: 0.413641 s
+Warping images, time: 0.00310452 s
+Compensating exposure...
+Compensating exposure, time: 4.4805e-05 s
+Finding seams...
+Warping images (auxiliary)... 
+Pairwise matching, time: 0.38875 sec
+Pairwise matching, time: 0.388789 s
+Warping images, time: 0.00310421 s
+Compensating exposure...
+Compensating exposure, time: 5.2546e-05 s
+Finding seams...
+Warping images (auxiliary)... 
+Warping images, time: 0.00301432 s
+Compensating exposure...
+Compensating exposure, time: 5.2438e-05 s
+Finding seams...
+Pairwise matching, time: 0.426933 sec
+Pairwise matching, time: 0.426972 s
+Pairwise matching, time: 0.380098 sec
+Pairwise matching, time: 0.380125 s
+Warping images (auxiliary)... 
+Warping images (auxiliary)... 
+Warping images, time: 0.00301567 s
+Compensating exposure...
+Compensating exposure, time: 4.4806e-05 s
+Finding seams...
+Warping images, time: 0.00315603 s
+Compensating exposure...
+Compensating exposure, time: 5.6402e-05 s
+Finding seams...
+Pairwise matching, time: 0.39089 sec
+Pairwise matching, time: 0.390917 s
+Warping images (auxiliary)... 
+Pairwise matching, time: 0.379359 sec
+Pairwise matching, time: 0.37938 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00307357 s
+Compensating exposure...
+Compensating exposure, time: 4.4661e-05 s
+Finding seams...
+Warping images, time: 0.00295154 s
+Compensating exposure...
+Compensating exposure, time: 4.1907e-05 s
+Finding seams...
+Finding seams, time: 0.0100878 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Pairwise matching, time: 0.421118 sec
+Pairwise matching, time: 0.421154 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00302549 s
+Compensating exposure...
+Compensating exposure, time: 4.5974e-05 s
+Finding seams...
+Warping images (auxiliary)... 
+Warping images, time: 0.00314341 s
+Compensating exposure...
+Compensating exposure, time: 5.2505e-05 s
+Finding seams...
+Warping images (auxiliary)... 
+Warping images, time: 0.00307008 s
+Compensating exposure...
+Compensating exposure, time: 5.0882e-05 s
+Finding seams...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Finding seams, time: 0.173084 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Finding seams, time: 0.222644 s
+Compositing...
+Compositing, time: 0.388074 s
+HERE
+process[1] sending to process[0]
+Finding seams, time: 0.333594 s
+Compositing...
+Process 1: sending results...
+matsnd: rows=2163
+matsnd: cols=3841
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=24924265
+
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.389593 s
+HERE
+process[29] sending to process[28]
+Process 29: sending results...
+matsnd: rows=2160
+matsnd: cols=3840
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=24883216
+
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Finding seams, time: 0.421447 s
+Compositing...
+Compositing, time: 0.394514 s
+HERE
+process[6] receiving from process[7]
+Compositing, time: 0.38424 s
+HERE
+process[23] sending to process[22]
+Process 23: sending results...
+matsnd: rows=2161
+matsnd: cols=3845
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=24927151
+
+Finding seams, time: 0.461785 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Finding seams, time: 0.448493 s
+Compositing...
+Finding seams, time: 0.515413 s
+Compositing...
+Finding seams, time: 0.491152 s
+Compositing...
+Finding seams, time: 0.524392 s
+Compositing...
+Finding seams, time: 0.512902 s
+Compositing...
+Finding seams, time: 0.576282 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Finding seams, time: 0.543121 s
+Compositing...
+Compositing, time: 0.39808 s
+HERE
+process[20] receiving from process[21]
+Compositing, time: 0.387677 s
+Finding seams, time: 0.605172 s
+Compositing...
+Finding seams, time: 0.643363 s
+Compositing...
+HERE
+process[12] receiving from process[13]
+Finding seams, time: 0.658791 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Finding seams, time: 0.593567 s
+Compositing...
+Finding seams, time: 0.664017 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Finding seams, time: 0.624924 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Finding seams, time: 0.674919 s
+Compositing...
+Finding seams, time: 0.668773 s
+Compositing...
+Finding seams, time: 0.619958 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.387615 s
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+HERE
+process[3] sending to process[2]
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Finding seams, time: 0.703951 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Process 3: sending results...
+matsnd: rows=2167
+matsnd: cols=3851
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25035367
+
+Finding seams, time: 0.767833 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.405808 s
+HERE
+process[7] sending to process[6]
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Process 7: sending results...
+matsnd: rows=2167
+matsnd: cols=3841
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=24970357
+
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Finding seams, time: 0.771973 s
+Compositing...
+Process 7: receiving results...
+matrcv: Count=24970357
+matrcv: rows=2167
+matrcv: cols=3841
+matrcv: type=16
+============= processor[6]============ loading image... active processors:32   size 0: [3845 x 2161] size 1: [3841 x 2167]
+Finding features...
+Compositing, time: 0.397775 s
+HERE
+process[8] receiving from process[9]
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.394722 s
+Compositing, time: 0.397888 s
+HERE
+process[26] receiving from process[27]
+HERE
+process[25] sending to process[24]
+Process 25: sending results...
+matsnd: rows=2171
+matsnd: cols=3853
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25094605
+
+Compositing, time: 0.39899 s
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.412043 s
+Finding seams, time: 0.897919 s
+Compositing...
+Compositing, time: 0.398649 s
+HERE
+process[28] receiving from process[29]
+HERE
+process[22] receiving from process[23]
+HERE
+process[16] receiving from process[17]
+Compositing, time: 0.396469 s
+HERE
+process[2] receiving from process[3]
+Compositing, time: 0.395651 s
+HERE
+process[24] receiving from process[25]
+Process 29: receiving results...
+matrcv: Count=24883216
+matrcv: rows=2160
+matrcv: cols=3840
+matrcv: type=16
+============= processor[28]============ loading image... active processors:32   size 0: [3845 x 2170] size 1: [3840 x 2160]
+Finding features...
+Process 23: receiving results...
+matrcv: Count=24927151
+matrcv: rows=2161
+matrcv: cols=3845
+matrcv: type=16
+============= processor[22]============ loading image... active processors:32   size 0: [3843 x 2176] size 1: [3845 x 2161]
+Finding features...
+Finding seams, time: 0.875172 s
+Compositing...
+Process 3: receiving results...
+matrcv: Count=25035367
+matrcv: rows=2167
+matrcv: cols=3851
+matrcv: type=16
+============= processor[2]============ loading image... active processors:32   size 0: [3841 x 2175] size 1: [3851 x 2167]
+Finding features...
+Process 25: receiving results...
+matrcv: Count=25094605
+matrcv: rows=2171
+matrcv: cols=3853
+matrcv: type=16
+============= processor[24]============ loading image... active processors:32   size 0: [3843 x 2176] size 1: [3853 x 2171]
+Finding features...
+Compositing, time: 0.399453 s
+Compositing, time: 0.399772 s
+HERE
+HERE
+process[19] sending to process[18]
+process[15] sending to process[14]
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.397824 s
+HERE
+process[11] sending to process[10]
+Compositing, time: 0.396694 s
+HERE
+process[31] sending to process[30]
+Process 15: sending results...
+matsnd: rows=2169
+matsnd: cols=3846
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25025938
+
+Process 19: sending results...
+matsnd: rows=2170
+matsnd: cols=3849
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25057006
+
+Process 11: sending results...
+matsnd: rows=2168
+matsnd: cols=3843
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=24994888
+
+Process 31: sending results...
+matsnd: rows=2169
+matsnd: cols=3842
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=24999910
+
+Compositing, time: 0.403309 s
+HERE
+process[27] sending to process[26]
+Compositing, time: 0.413978 s
+Compositing, time: 0.395896 s
+HERE
+process[13] sending to process[12]
+HERE
+process[21] sending to process[20]
+Process 27: sending results...
+matsnd: rows=2170
+matsnd: cols=3842
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25011436
+
+Compositing, time: 0.399223 s
+HERE
+process[9] sending to process[8]
+Process 13: sending results...
+matsnd: rows=2173
+matsnd: cols=3844
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25059052
+
+Compositing, time: 0.407959 s
+Process 21: sending results...
+matsnd: rows=2167
+matsnd: cols=3841
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=24970357
+
+HERE
+process[14] receiving from process[15]
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Process 27: receiving results...
+matrcv: Count=25011436
+matrcv: rows=2170
+matrcv: cols=3842
+matrcv: type=16
+============= processor[26]============ loading image... active processors:32   size 0: [3857 x 2187] size 1: [3842 x 2170]
+Finding features...
+Process 9: sending results...
+matsnd: rows=2168
+matsnd: cols=3850
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25040416
+
+Compositing, time: 0.398486 s
+Process 13: receiving results...
+matrcv: Count=25059052
+matrcv: rows=2173
+matrcv: cols=3844
+matrcv: type=16
+============= processor[12]============ loading image... active processors:32   size 0: [3842 x 2161] size 1: [3844 x 2173]
+Finding features...
+HERE
+process[30] receiving from process[31]
+Process 21: receiving results...
+matrcv: Count=24970357
+matrcv: rows=2167
+matrcv: cols=3841
+matrcv: type=16
+============= processor[20]============ loading image... active processors:32   size 0: [3874 x 2162] size 1: [3841 x 2167]
+Finding features...
+Process 15: receiving results...
+matrcv: Count=25025938
+matrcv: rows=2169
+matrcv: cols=3846
+matrcv: type=16
+============= processor[14]============ loading image... active processors:32   size 0: [3846 x 2178] size 1: [3846 x 2169]
+Finding features...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Process 9: receiving results...
+matrcv: Count=25040416
+matrcv: rows=2168
+matrcv: cols=3850
+matrcv: type=16
+============= processor[8]============ loading image... active processors:32   size 0: [3842 x 2167] size 1: [3850 x 2168]
+Finding features...
+Process 31: receiving results...
+matrcv: Count=24999910
+matrcv: rows=2169
+matrcv: cols=3842
+matrcv: type=16
+============= processor[30]============ loading image... active processors:32   size 0: [3851 x 2166] size 1: [3842 x 2169]
+Finding features...
+Compositing, time: 0.411992 s
+HERE
+process[10] receiving from process[11]
+Process 11: receiving results...
+matrcv: Count=24994888
+matrcv: rows=2168
+matrcv: cols=3843
+matrcv: type=16
+============= processor[10]============ loading image... active processors:32   size 0: [3885 x 2180] size 1: [3843 x 2168]
+Finding features...
+Compositing, time: 0.399781 s
+HERE
+process[5] sending to process[4]
+Process 5: sending results...
+matsnd: rows=2177
+matsnd: cols=3841
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25085587
+
+Compositing, time: 0.40852 s
+HERE
+process[0] receiving from process[1]
+Compositing, time: 0.39212 s
+HERE
+process[17] sending to process[16]
+Process 1: receiving results...
+matrcv: Count=24924265
+matrcv: rows=2163
+matrcv: cols=3841
+matrcv: type=16
+============= processor[0]============ loading image... active processors:32   size 0: [3841 x 2168] size 1: [3841 x 2163]
+Finding features...
+Process 17: sending results...
+matsnd: rows=2178
+matsnd: cols=3843
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25110178
+
+Process 17: receiving results...
+matrcv: Count=25110178
+matrcv: rows=2178
+matrcv: cols=3843
+matrcv: type=16
+============= processor[16]============ loading image... active processors:32   size 0: [3895 x 2172] size 1: [3843 x 2178]
+Finding features...
+Warping images (auxiliary)... 
+Warping images, time: 0.00308951 s
+Compensating exposure...
+Compensating exposure, time: 4.7232e-05 s
+Finding seams...
+Finding seams, time: 0.736876 s
+Compositing...
+Features in image #1: 10255
+Features in image #1: 10273
+Features in image #1: 10240
+Features in image #1: 9914
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Features in image #1: 10121
+Features in image #1: 10107
+Features in image #1: 10164
+Features in image #1: 9848
+Features in image #1: 10190
+Features in image #1: 10211
+Features in image #1: 10297
+Features in image #1: 10130
+Compositing, time: 0.398199 s
+HERE
+process[18] receiving from process[19]
+Process 19: receiving results...
+matrcv: Count=25057006
+matrcv: rows=2170
+matrcv: cols=3849
+matrcv: type=16
+============= processor[18]============ loading image... active processors:32   size 0: [3843 x 2178] size 1: [3849 x 2170]
+Finding features...
+Features in image #1: 10099
+Features in image #1: 10199
+Warping images (auxiliary)... 
+Warping images, time: 0.00306624 s
+Compensating exposure...
+Compensating exposure, time: 4.7575e-05 s
+Finding seams...
+Finding seams, time: 0.604805 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Features in image #2: 10207
+Finding features, time: 3.20321 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10034
+Finding features, time: 3.11725 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 9904
+Finding features, time: 3.1909 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10091
+Finding features, time: 3.18986 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Compositing, time: 0.377055 s
+HERE
+process[4] receiving from process[5]
+Features in image #2: 10074
+Finding features, time: 3.26696 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Process 5: receiving results...
+matrcv: Count=25085587
+matrcv: rows=2177
+matrcv: cols=3841
+matrcv: type=16
+============= processor[4]============ loading image... active processors:32   size 0: [3840 x 2177] size 1: [3841 x 2177]
+Finding features...
+Features in image #2: 9875
+Finding features, time: 3.18854 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10087
+Finding features, time: 3.20374 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10159
+Finding features, time: 3.22729 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10110
+Finding features, time: 3.21736 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10273
+Features in image #2: 10169
+Finding features, time: 3.22174 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.320704 sec
+Pairwise matching, time: 0.32072 s
+Finding features, time: 3.25497 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.316988 sec
+Pairwise matching, time: 0.317007 s
+Warping images (auxiliary)... 
+Warping images, time: 0.0024287 s
+Compensating exposure...
+Compensating exposure, time: 2.452e-06 s
+Finding seams...
+Features in image #2: 10099
+Finding features, time: 3.21712 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #1: 10246
+Features in image #2: 10191
+Pairwise matching, time: 0.310998 sec
+Pairwise matching, time: 0.311019 s
+Finding features, time: 3.09185 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.320699 sec
+Pairwise matching, time: 0.320716 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00241856 s
+Compensating exposure...
+Compensating exposure, time: 2.928e-06 s
+Finding seams...
+Warping images (auxiliary)... 
+Warping images, time: 0.00242585 s
+Compensating exposure...
+Compensating exposure, time: 3.053e-06 s
+Finding seams...
+Pairwise matching, time: 0.320348 sec
+Pairwise matching, time: 0.320369 s
+Pairwise matching, time: 0.314979 sec
+Pairwise matching, time: 0.315 s
+Finding seams, time: 0.225033 s
+Compositing...
+Warping images (auxiliary)... 
+Warping images, time: 0.00246456 s
+Compensating exposure...
+Compensating exposure, time: 3.197e-06 s
+Finding seams...
+Pairwise matching, time: 0.324022 sec
+Pairwise matching, time: 0.324043 s
+Features in image #2: 10233
+Finding features, time: 3.25096 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.330146 sec
+Pairwise matching, time: 0.330163 s
+Pairwise matching, time: 0.329824 sec
+Pairwise matching, time: 0.329838 s
+Pairwise matching, time: 0.3213 sec
+Pairwise matching, time: 0.321324 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00251056 s
+Compensating exposure...
+Compensating exposure, time: 3.706e-06 s
+Finding seams...
+Pairwise matching, time: 0.330519 sec
+Pairwise matching, time: 0.330536 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00257407 s
+Compensating exposure...
+Compensating exposure, time: 3.512e-06 s
+Finding seams...
+Pairwise matching, time: 0.332707 sec
+Pairwise matching, time: 0.332725 s
+Warping images (auxiliary)... 
+Warping images (auxiliary)... 
+Warping images, time: 0.00252919 s
+Compensating exposure...
+Compensating exposure, time: 3.014e-06 s
+Finding seams...
+Warping images, time: 0.00251128 s
+Compensating exposure...
+Compensating exposure, time: 2.815e-06 s
+Finding seams...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Warping images (auxiliary)... 
+Warping images, time: 0.00257311 s
+Compensating exposure...
+Compensating exposure, time: 3.067e-06 s
+Finding seams...
+Pairwise matching, time: 0.33498 sec
+Pairwise matching, time: 0.334999 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00252075 s
+Compensating exposure...
+Compensating exposure, time: 2.979e-06 s
+Finding seams...
+Finding seams, time: 0.348776 s
+Compositing...
+Compositing, time: 0.294776 s
+HERE
+process[2] sending to process[0]
+Process 1: sending results...
+matsnd: rows=2187
+matsnd: cols=3853
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25279549
+
+Finding seams, time: 0.261711 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Pairwise matching, time: 0.329218 sec
+Pairwise matching, time: 0.329236 s
+Finding seams, time: 0.238579 s
+Compositing...
+Finding seams, time: 0.564276 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.288031 s
+Finding seams, time: 0.423969 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Finding seams, time: 0.389022 s
+Compositing...
+HERE
+process[28] receiving from process[30]
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.296839 s
+HERE
+process[20] receiving from process[22]
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Finding seams, time: 0.519419 s
+Compositing...
+Finding seams, time: 0.664783 s
+Compositing...
+Compositing, time: 0.291917 s
+HERE
+process[10] sending to process[8]
+Process 5: sending results...
+matsnd: rows=2209
+matsnd: cols=3885
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25745911
+
+Compositing, time: 0.297161 s
+HERE
+process[22] sending to process[20]
+Process 11: sending results...
+matsnd: rows=2181
+matsnd: cols=3853
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25210195
+
+Process 22: receiving results...
+matrcv: Count=25210195
+matrcv: rows=2181
+matrcv: cols=3853
+matrcv: type=16
+============= processor[20]============ loading image... active processors:16   size 0: [3876 x 2192] size 1: [3853 x 2181]
+Finding features...
+Finding seams, time: 0.561315 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.300023 s
+HERE
+process[8] receiving from process[10]
+Process 10: receiving results...
+matrcv: Count=25745911
+matrcv: rows=2209
+matrcv: cols=3885
+matrcv: type=16
+============= processor[8]============ loading image... active processors:16   size 0: [3892 x 2232] size 1: [3885 x 2209]
+Finding features...
+Compositing, time: 0.318957 s
+HERE
+process[12] receiving from process[14]
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.298063 s
+HERE
+process[30] sending to process[28]
+Process 15: sending results...
+matsnd: rows=2200
+matsnd: cols=3852
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25423216
+
+Compositing, time: 0.292095 s
+HERE
+process[26] sending to process[24]
+Process 30: receiving results...
+matrcv: Count=25423216
+matrcv: rows=2200
+matrcv: cols=3852
+matrcv: type=16
+============= processor[28]============ loading image... active processors:16   size 0: [3848 x 2189] size 1: [3852 x 2200]
+Finding features...
+Process 13: sending results...
+matsnd: rows=2224
+matsnd: cols=3866
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25793968
+
+Compositing, time: 0.297537 s
+HERE
+process[0] receiving from process[2]
+Process 2: receiving results...
+matrcv: Count=25279549
+matrcv: rows=2187
+matrcv: cols=3853
+matrcv: type=16
+============= processor[0]============ loading image... active processors:16   size 0: [3846 x 2203] size 1: [3853 x 2187]
+Finding features...
+Features in image #1: 10264
+Features in image #2: 10253
+Finding features, time: 3.23704 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.319595 sec
+Pairwise matching, time: 0.319611 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00244719 s
+Compensating exposure...
+Compensating exposure, time: 2.957e-06 s
+Finding seams...
+Warping images (auxiliary)... 
+Warping images, time: 0.00252405 s
+Compensating exposure...
+Compensating exposure, time: 2.958e-06 s
+Finding seams...
+Finding seams, time: 0.204261 s
+Compositing...
+Warping images (auxiliary)... 
+Warping images (auxiliary)... 
+Warping images, time: 0.00257005 s
+Compensating exposure...
+Compensating exposure, time: 2.885e-06 s
+Finding seams...
+Warping images, time: 0.00246454 s
+Compensating exposure...
+Compensating exposure, time: 2.063e-06 s
+Finding seams...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Finding seams, time: 0.209918 s
+Compositing...
+Features in image #1: 9955
+Compositing, time: 0.291024 s
+HERE
+process[16] receiving from process[18]
+Warping images (auxiliary)... 
+Warping images, time: 0.002451 s
+Compensating exposure...
+Compensating exposure, time: 3.21e-06 s
+Finding seams...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Features in image #1: 10017
+Features in image #1: 9809
+Compositing, time: 0.29208 s
+HERE
+process[6] sending to process[4]
+Process 3: sending results...
+matsnd: rows=2204
+matsnd: cols=3845
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25423156
+
+Finding seams, time: 0.795084 s
+Compositing...
+Features in image #1: 10049
+Finding seams, time: 0.68822 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Features in image #2: 10307
+Finding features, time: 3.22094 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.299891 s
+HERE
+process[18] sending to process[16]
+Process 9: sending results...
+matsnd: rows=2210
+matsnd: cols=3853
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25545406
+
+Process 18: receiving results...
+matrcv: Count=25545406
+matrcv: rows=2210
+matrcv: cols=3853
+matrcv: type=16
+============= processor[16]============ loading image... active processors:16   size 0: [3897 x 2207] size 1: [3853 x 2210]
+Finding features...
+Finding seams, time: 0.581005 s
+Compositing...
+Compositing, time: 0.300916 s
+HERE
+process[14] sending to process[12]
+Process 7: sending results...
+matsnd: rows=2212
+matsnd: cols=3850
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25548616
+
+Process 14: receiving results...
+matrcv: Count=25548616
+matrcv: rows=2212
+matrcv: cols=3850
+matrcv: type=16
+============= processor[12]============ loading image... active processors:16   size 0: [3852 x 2211] size 1: [3850 x 2212]
+Finding features...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Pairwise matching, time: 0.323945 sec
+Pairwise matching, time: 0.323963 s
+Compositing, time: 0.303534 s
+HERE
+process[24] receiving from process[26]
+Process 26: receiving results...
+matrcv: Count=25793968
+matrcv: rows=2224
+matrcv: cols=3866
+matrcv: type=16
+============= processor[24]============ loading image... active processors:16   size 0: [3852 x 2208] size 1: [3866 x 2224]
+Finding features...
+Features in image #2: 9853
+Finding features, time: 3.16786 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 9981
+Finding features, time: 3.15801 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10000
+Finding features, time: 3.15076 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.307941 sec
+Pairwise matching, time: 0.307956 s
+Features in image #2: 9936
+Finding features, time: 3.14262 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.306898 sec
+Pairwise matching, time: 0.306912 s
+Pairwise matching, time: 0.306312 sec
+Pairwise matching, time: 0.306326 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00249753 s
+Compensating exposure...
+Compensating exposure, time: 2.645e-06 s
+Finding seams...
+Features in image #1: 10008
+Pairwise matching, time: 0.311288 sec
+Pairwise matching, time: 0.311304 s
+Features in image #1: 9900
+Features in image #1: 9985
+Finding seams, time: 0.531096 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.287616 s
+HERE
+process[28] sending to process[24]
+Process 7: sending results...
+matsnd: rows=2269
+matsnd: cols=3858
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=26261422
+
+Warping images (auxiliary)... 
+Warping images, time: 0.00242695 s
+Compensating exposure...
+Compensating exposure, time: 2.9e-06 s
+Finding seams...
+Warping images (auxiliary)... 
+Warping images, time: 0.00246971 s
+Compensating exposure...
+Compensating exposure, time: 2.782e-06 s
+Finding seams...
+Features in image #2: 9950
+Finding features, time: 3.13019 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Finding seams, time: 0.278519 s
+Compositing...
+Warping images (auxiliary)... 
+Warping images, time: 0.0025176 s
+Compensating exposure...
+Compensating exposure, time: 3.749e-06 s
+Finding seams...
+Features in image #2: 10091
+Finding features, time: 3.1578 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Finding seams, time: 0.5016 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Warping images (auxiliary)... 
+Warping images, time: 0.00258033 s
+Compensating exposure...
+Compensating exposure, time: 3.361e-06 s
+Finding seams...
+Pairwise matching, time: 0.312458 sec
+Pairwise matching, time: 0.312473 s
+Features in image #2: 9863
+Finding features, time: 3.16801 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Compositing, time: 0.30801 s
+HERE
+process[8] receiving from process[12]
+Finding seams, time: 0.322438 s
+Compositing...
+Compositing, time: 0.284737 s
+HERE
+process[4] receiving from process[6]
+Process 6: receiving results...
+matrcv: Count=25423156
+matrcv: rows=2204
+matrcv: cols=3845
+matrcv: type=16
+============= processor[4]============ loading image... active processors:16   size 0: [3841 x 2209] size 1: [3845 x 2204]
+Finding features...
+Pairwise matching, time: 0.315313 sec
+Pairwise matching, time: 0.315326 s
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Pairwise matching, time: 0.309042 sec
+Pairwise matching, time: 0.309067 s
+Finding seams, time: 0.382821 s
+Compositing...
+Compositing, time: 0.290428 s
+HERE
+process[20] sending to process[16]
+Process 5: sending results...
+matsnd: rows=2243
+matsnd: cols=3879
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=26101807
+
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.286856 s
+HERE
+process[0] receiving from process[4]
+Features in image #1: 10157
+Warping images (auxiliary)... 
+Warping images, time: 0.00241933 s
+Compensating exposure...
+Compensating exposure, time: 2.853e-06 s
+Finding seams...
+Finding seams, time: 0.380604 s
+Compositing...
+Warping images (auxiliary)... 
+Warping images, time: 0.00262638 s
+Compensating exposure...
+Compensating exposure, time: 3.176e-06 s
+Finding seams...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.296617 s
+HERE
+process[16] receiving from process[20]
+Warping images (auxiliary)... 
+Warping images, time: 0.00258505 s
+Compensating exposure...
+Compensating exposure, time: 2.814e-06 s
+Finding seams...
+Process 20: receiving results...
+matrcv: Count=26101807
+matrcv: rows=2243
+matrcv: cols=3879
+matrcv: type=16
+============= processor[16]============ loading image... active processors:8   size 0: [3897 x 2268] size 1: [3879 x 2243]
+Finding features...
+Finding seams, time: 0.414671 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.289742 s
+HERE
+process[12] sending to process[8]
+Process 3: sending results...
+matsnd: rows=2277
+matsnd: cols=3857
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=26347183
+
+Process 12: receiving results...
+matrcv: Count=26347183
+matrcv: rows=2277
+matrcv: cols=3857
+matrcv: type=16
+============= processor[8]============ loading image... active processors:8   size 0: [3900 x 2281] size 1: [3857 x 2277]
+Finding features...
+Finding seams, time: 0.440314 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.293689 s
+HERE
+process[24] receiving from process[28]
+Process 28: receiving results...
+matrcv: Count=26261422
+matrcv: rows=2269
+matrcv: cols=3858
+matrcv: type=16
+============= processor[24]============ loading image... active processors:8   size 0: [3870 x 2299] size 1: [3858 x 2269]
+Finding features...
+Features in image #2: 10122
+Finding features, time: 3.15712 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.31521 sec
+Pairwise matching, time: 0.315222 s
+Features in image #1: 9958
+Features in image #1: 9959
+Features in image #1: 9773
+Features in image #2: 9677
+Finding features, time: 3.08497 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.300499 sec
+Pairwise matching, time: 0.300516 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00232464 s
+Compensating exposure...
+Compensating exposure, time: 2.678e-06 s
+Finding seams...
+Warping images (auxiliary)... 
+Warping images, time: 0.0024448 s
+Compensating exposure...
+Compensating exposure, time: 3.024e-06 s
+Finding seams...
+Features in image #2: 9791
+Finding features, time: 3.0515 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Finding seams, time: 0.25761 s
+Compositing...
+Finding seams, time: 0.288699 s
+Compositing...
+Pairwise matching, time: 0.304501 sec
+Pairwise matching, time: 0.304518 s
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Features in image #2: 9498
+Finding features, time: 3.04266 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Warping images (auxiliary)... 
+Warping images, time: 0.00250225 s
+Compensating exposure...
+Compensating exposure, time: 3.272e-06 s
+Finding seams...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.308275 s
+HERE
+process[16] receiving from process[24]
+Compositing, time: 0.291574 s
+HERE
+process[4] sending to process[0]
+Process 1: sending results...
+matsnd: rows=2266
+matsnd: cols=3846
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=26145124
+
+Process 4: receiving results...
+matrcv: Count=26145124
+matrcv: rows=2266
+matrcv: cols=3846
+matrcv: type=16
+============= processor[0]============ loading image... active processors:8   size 0: [3850 x 2272] size 1: [3846 x 2266]
+Finding features...
+Pairwise matching, time: 0.294145 sec
+Pairwise matching, time: 0.294156 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00235351 s
+Compensating exposure...
+Compensating exposure, time: 3.178e-06 s
+Finding seams...
+Finding seams, time: 0.495897 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Finding seams, time: 0.317411 s
+Compositing...
+Compositing, time: 0.300598 s
+HERE
+process[8] sending to process[0]
+Process 1: sending results...
+matsnd: rows=2406
+matsnd: cols=3899
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=28142998
+
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.298949 s
+HERE
+process[24] sending to process[16]
+Process 3: sending results...
+matsnd: rows=2401
+matsnd: cols=3870
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=27875626
+
+Process 24: receiving results...
+matrcv: Count=27875626
+matrcv: rows=2401
+matrcv: cols=3870
+matrcv: type=16
+============= processor[16]============ loading image... active processors:4   size 0: [3937 x 2379] size 1: [3870 x 2401]
+Finding features...
+Features in image #1: 9795
+Features in image #1: 9787
+Features in image #2: 9816
+Finding features, time: 3.01411 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.302863 sec
+Pairwise matching, time: 0.302877 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00242573 s
+Compensating exposure...
+Compensating exposure, time: 2.878e-06 s
+Finding seams...
+Finding seams, time: 0.281121 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Features in image #2: 9682
+Finding features, time: 3.04712 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Compositing, time: 0.301723 s
+HERE
+process[0] receiving from process[8]
+Process 8: receiving results...
+matrcv: Count=28142998
+matrcv: rows=2406
+matrcv: cols=3899
+matrcv: type=16
+============= processor[0]============ loading image... active processors:4   size 0: [4021 x 2352] size 1: [3899 x 2406]
+Finding features...
+Pairwise matching, time: 0.299347 sec
+Pairwise matching, time: 0.299363 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00236689 s
+Compensating exposure...
+Compensating exposure, time: 2.415e-06 s
+Finding seams...
+Features in image #1: 9595
+Finding seams, time: 0.368881 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.316761 s
+HERE
+process[16] sending to process[0]
+Process 1: sending results...
+matsnd: rows=2646
+matsnd: cols=3952
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=31370992
+
+Features in image #2: 9932
+Finding features, time: 3.008 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.303318 sec
+Pairwise matching, time: 0.303331 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00234557 s
+Compensating exposure...
+Compensating exposure, time: 2.76e-06 s
+Finding seams...
+Finding seams, time: 0.180575 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.32493 s
+HERE
+process[0] receiving from process[16]
+Process 16: receiving results...
+matrcv: Count=31370992
+matrcv: rows=2646
+matrcv: cols=3952
+matrcv: type=16
+============= processor[0]============ loading image... active processors:2   size 0: [4056 x 2731] size 1: [3952 x 2646]
+Finding features...
+Features in image #1: 9761
+Features in image #2: 9325
+Finding features, time: 2.94463 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.292012 sec
+Pairwise matching, time: 0.292025 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00229922 s
+Compensating exposure...
+Compensating exposure, time: 2.679e-06 s
+Finding seams...
+Finding seams, time: 0.252517 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.431636 s
+process_0 ------------ Finished, total time : 36.8943 s------------
+process_16 ------------ Finished, total time : 37.0178 s------------
+process_1 ------------ Finished, total time : 37.0408 s------------
+process_4 ------------ Finished, total time : 37.0536 s------------
+process_8 ------------ Finished, total time : 37.0793 s------------
+process_2 ------------ Finished, total time : 37.0836 s------------
+process_3 ------------ Finished, total time : 37.1469 s------------
+process_17 ------------ Finished, total time : 37.1845 s------------
+process_20 ------------ Finished, total time : 37.2005 s------------
+process_9 ------------ Finished, total time : 37.2031 s------------
+process_12 ------------ Finished, total time : 37.2178 s------------
+process_5 ------------ Finished, total time : 37.2219 s------------
+process_10 ------------ Finished, total time : 37.2353 s------------
+process_24 ------------ Finished, total time : 37.237 s------------
+process_6 ------------ Finished, total time : 37.244 s------------
+process_18 ------------ Finished, total time : 37.25 s------------
+process_11 ------------ Finished, total time : 37.2734 s------------
+process_7 ------------ Finished, total time : 37.3142 s------------
+process_19 ------------ Finished, total time : 37.317 s------------
+process_28 ------------ Finished, total time : 37.3511 s------------
+process_25 ------------ Finished, total time : 37.353 s------------
+process_14 ------------ Finished, total time : 37.3715 s------------
+process_26 ------------ Finished, total time : 37.382 s------------
+process_13 ------------ Finished, total time : 37.383 s------------
+process_21 ------------ Finished, total time : 37.3878 s------------
+process_23 ------------ Finished, total time : 37.4286 s------------
+process_22 ------------ Finished, total time : 37.429 s------------
+process_27 ------------ Finished, total time : 37.4665 s------------
+process_30 ------------ Finished, total time : 37.4717 s------------
+process_15 ------------ Finished, total time : 37.4873 s------------
+process_29 ------------ Finished, total time : 37.5253 s------------
+process_31 ------------ Finished, total time : 37.6125 s------------
+
+____________________________________________________________________
+Job Resource Usage Summary for 15684665.pbspl1.nas.nasa.gov
+
+    CPU Time Used            : 00:11:07
+    Real Memory Used         : 11257740kb
+    Walltime Used            : 00:00:48
+    Exit Status              : 0
+
+    Number of CPUs Requested : 32
+    Walltime Requested       : 01:00:00
+
+    Execution Queue          : normal
+    Charged To               : n2018
+
+    Job Stopped              : Tue Mar 28 10:19:43 2023
+____________________________________________________________________

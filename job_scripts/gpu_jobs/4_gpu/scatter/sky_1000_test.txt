@@ -1,0 +1,472 @@
+Job 92367.pbspl4.nas.nasa.gov started on Tue Mar 28 10:53:32 PDT 2023
+The job requested the following resources:
+    mem=256gb
+    ncpus=4
+    place=scatter:shared
+    walltime=00:10:00
+
+PBS set the following environment variables:
+        FORT_BUFFERED = 1
+                   TZ = PST8PDT
+
+On r101i0n2:
+Current directory is /home5/rrramir2/job_scripts/gpu_jobs
+"/nobackup/rrramir2/16/img_9.jpg"
+"/nobackup/rrramir2/16/img_9.jpg"
+"/nobackup/rrramir2/16/img_9.jpg"
+"/nobackup/rrramir2/16/img_8.jpg"
+"/nobackup/rrramir2/16/img_9.jpg"
+"/nobackup/rrramir2/16/img_8.jpg"
+"/nobackup/rrramir2/16/img_8.jpg"
+"/nobackup/rrramir2/16/img_0.jpg"
+"/nobackup/rrramir2/16/img_8.jpg"
+"/nobackup/rrramir2/16/img_0.jpg"
+"/nobackup/rrramir2/16/img_0.jpg"
+"/nobackup/rrramir2/16/img_14.jpg"
+"/nobackup/rrramir2/16/img_0.jpg"
+"/nobackup/rrramir2/16/img_14.jpg"
+"/nobackup/rrramir2/16/img_15.jpg"
+"/nobackup/rrramir2/16/img_14.jpg"
+"/nobackup/rrramir2/16/img_15.jpg"
+"/nobackup/rrramir2/16/img_5.jpg"
+"/nobackup/rrramir2/16/img_15.jpg"
+"/nobackup/rrramir2/16/img_5.jpg"
+"/nobackup/rrramir2/16/img_13.jpg"
+"/nobackup/rrramir2/16/img_5.jpg"
+"/nobackup/rrramir2/16/img_13.jpg"
+"/nobackup/rrramir2/16/img_2.jpg"
+"/nobackup/rrramir2/16/img_13.jpg"
+"/nobackup/rrramir2/16/img_2.jpg"
+"/nobackup/rrramir2/16/img_12.jpg"
+"/nobackup/rrramir2/16/img_2.jpg"
+"/nobackup/rrramir2/16/img_12.jpg"
+"/nobackup/rrramir2/16/img_10.jpg"
+"/nobackup/rrramir2/16/img_12.jpg"
+"/nobackup/rrramir2/16/img_11.jpg"
+"/nobackup/rrramir2/16/img_4.jpg"
+"/nobackup/rrramir2/16/img_1.jpg"
+"/nobackup/rrramir2/16/img_7.jpg"
+"/nobackup/rrramir2/16/img_10.jpg"
+"/nobackup/rrramir2/16/img_3.jpg"
+"/nobackup/rrramir2/16/img_11.jpg"
+"/nobackup/rrramir2/16/img_10.jpg"
+"/nobackup/rrramir2/16/img_6.jpg"
+"/nobackup/rrramir2/16/img_4.jpg"
+"/nobackup/rrramir2/16/img_11.jpg"
+"/nobackup/rrramir2/16/img_1.jpg"
+"/nobackup/rrramir2/16/img_4.jpg"
+"/nobackup/rrramir2/16/img_7.jpg"
+"/nobackup/rrramir2/16/img_1.jpg"
+"/nobackup/rrramir2/16/img_3.jpg"
+"/nobackup/rrramir2/16/img_7.jpg"
+"/nobackup/rrramir2/16/img_6.jpg"
+"/nobackup/rrramir2/16/img_3.jpg"
+"/nobackup/rrramir2/16/img_6.jpg"
+"/nobackup/rrramir2/16/img_14.jpg"
+"/nobackup/rrramir2/16/img_15.jpg"
+"/nobackup/rrramir2/16/img_5.jpg"
+"/nobackup/rrramir2/16/img_13.jpg"
+"/nobackup/rrramir2/16/img_2.jpg"
+"/nobackup/rrramir2/16/img_12.jpg"
+"/nobackup/rrramir2/16/img_10.jpg"
+"/nobackup/rrramir2/16/img_11.jpg"
+"/nobackup/rrramir2/16/img_4.jpg"
+"/nobackup/rrramir2/16/img_1.jpg"
+"/nobackup/rrramir2/16/img_7.jpg"
+"/nobackup/rrramir2/16/img_3.jpg"
+"/nobackup/rrramir2/16/img_6.jpg"
+PROCESSOR............................. 2 STARTIDX: - 8 ENDIDX - 11
+PROCESSOR............................. 3 STARTIDX: - 12 ENDIDX - 15
+PROCESSOR............................. 1 STARTIDX: - 4 ENDIDX - 7
+num_images_input................................................16
+PROCESSOR............................. 0 STARTIDX: - 0  ENDIDX - 3
+============= processor[3]============ loading image... /nobackup/rrramir2/16/img_13.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[2]============ loading image... /nobackup/rrramir2/16/img_9.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[0]============ loading image... /nobackup/rrramir2/16/img_1.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+============= processor[1]============ loading image... /nobackup/rrramir2/16/img_5.jpg   size 0: [3840 x 2160] size 1: [3840 x 2160]
+Finding features...
+Features in image #1: 10564
+Features in image #1: 10544
+Features in image #1: 10525
+Features in image #2: 10615
+Finding features, time: 2.63592 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #1: 10703
+Features in image #2: 10518
+Finding features, time: 2.82059 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #2: 10521
+Finding features, time: 2.85054 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.296108 sec
+Pairwise matching, time: 0.296143 s
+Pairwise matching, time: 0.415635 sec
+Pairwise matching, time: 0.415668 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00224377 s
+Compensating exposure...
+Compensating exposure, time: 4.4958e-05 s
+Finding seams...
+Finding seams, time: 0.00876803 s
+Compositing...
+Pairwise matching, time: 0.415898 sec
+Pairwise matching, time: 0.415935 s
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Warping images (auxiliary)... 
+Warping images, time: 0.00248657 s
+Compensating exposure...
+Compensating exposure, time: 5.7182e-05 s
+Finding seams...
+Compositing, time: 0.372655 s
+============= processor[3]============ loading image... /nobackup/rrramir2/16/img_14.jpg   size 0: [3845 x 2161] size 1: [3840 x 2160]
+Finding features...
+Finding seams, time: 0.441142 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Features in image #2: 10666
+Finding features, time: 4.03135 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Compositing, time: 0.362164 s
+Pairwise matching, time: 0.268321 sec
+Pairwise matching, time: 0.26836 s
+Warping images (auxiliary)... 
+============= processor[1]============ loading image... /nobackup/rrramir2/16/img_6.jpg   size 0: [3841 x 2175] size 1: [3840 x 2160]
+Finding features...
+######Try_cuda: warp_type == plane;
+Warping images, time: 0.232915 s
+Compensating exposure...
+Compensating exposure, time: 6.509e-05 s
+Finding seams...
+Finding seams, time: 0.0224352 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.249155 s
+Features in image #1: 10255
+============= processor[0]============ loading image... /nobackup/rrramir2/16/img_2.jpg   size 0: [3840 x 2162] size 1: [3840 x 2160]
+Finding features...
+Warping images (auxiliary)... 
+Warping images, time: 0.00251218 s
+Compensating exposure...
+Compensating exposure, time: 5.7662e-05 s
+Finding seams...
+Features in image #1: 10273
+Finding seams, time: 0.515436 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Features in image #1: 10130
+Features in image #2: 10553
+Finding features, time: 2.59545 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Compositing, time: 0.359332 s
+Pairwise matching, time: 0.278313 sec
+Pairwise matching, time: 0.278332 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00205685 s
+Compensating exposure...
+Compensating exposure, time: 3.902e-06 s
+Finding seams...
+============= processor[2]============ loading image... /nobackup/rrramir2/16/img_10.jpg   size 0: [3840 x 2177] size 1: [3840 x 2160]
+Finding features...
+Features in image #2: 10433
+Finding features, time: 2.52086 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Finding seams, time: 0.501872 s
+Compositing...
+Pairwise matching, time: 0.27614 sec
+Pairwise matching, time: 0.276154 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00211889 s
+Compensating exposure...
+Compensating exposure, time: 3.616e-06 s
+Finding seams...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.280196 s
+Finding seams, time: 0.332733 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Features in image #2: 10426
+Finding features, time: 2.55346 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.0216048 sec
+Pairwise matching, time: 0.0216225 s
+Warping images (auxiliary)... 
+######Try_cuda: warp_type == plane;
+Warping images, time: 0.00458162 s
+Compensating exposure...
+Compensating exposure, time: 3.809e-06 s
+Finding seams...
+============= processor[3]============ loading image... /nobackup/rrramir2/16/img_15.jpg   size 0: [3869 x 2186] size 1: [3840 x 2160]
+Finding features...
+Compositing, time: 0.292199 s
+Features in image #1: 10264
+============= processor[1]============ loading image... /nobackup/rrramir2/16/img_7.jpg   size 0: [3850 x 2175] size 1: [3840 x 2160]
+Finding features...
+Finding seams, time: 0.4231 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.15687 s
+============= processor[0]============ loading image... /nobackup/rrramir2/16/img_3.jpg   size 0: [3847 x 2177] size 1: [3840 x 2160]
+Finding features...
+Features in image #1: 10191
+Features in image #2: 10401
+Finding features, time: 2.5558 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Features in image #1: 10097
+Pairwise matching, time: 0.277272 sec
+Pairwise matching, time: 0.277293 s
+Features in image #1: 10144
+Features in image #2: 10354
+Finding features, time: 2.57226 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.271783 sec
+Pairwise matching, time: 0.271802 s
+Features in image #2: 10525
+Finding features, time: 2.50563 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Warping images (auxiliary)... 
+Warping images, time: 0.00222028 s
+Compensating exposure...
+Compensating exposure, time: 3.981e-06 s
+Finding seams...
+Finding seams, time: 0.158868 s
+Compositing...
+Pairwise matching, time: 0.274219 sec
+Pairwise matching, time: 0.274233 s
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Features in image #2: 10337
+Finding features, time: 2.51583 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.0206195 sec
+Pairwise matching, time: 0.0206377 s
+Compositing, time: 0.280546 s
+HERE
+process[3] sending to process[2]
+Warping images (auxiliary)... 
+######Try_cuda: warp_type == plane;
+Warping images, time: 0.00278516 s
+Compensating exposure...
+Compensating exposure, time: 4.302e-06 s
+Finding seams...
+Process 3: sending results...
+matsnd: rows=2187
+matsnd: cols=3875
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25423891
+
+Finding seams, time: 0.364106 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.164288 s
+HERE
+process[0] receiving from process[1]
+Warping images (auxiliary)... 
+Warping images, time: 0.00206249 s
+Compensating exposure...
+Compensating exposure, time: 3.979e-06 s
+Finding seams...
+Warping images (auxiliary)... 
+Warping images, time: 0.00226371 s
+Compensating exposure...
+Compensating exposure, time: 3.756e-06 s
+Finding seams...
+Finding seams, time: 0.546572 s
+Compositing...
+Finding seams, time: 0.379693 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.294775 s
+Compositing, time: 0.28223 s
+HERE
+process[1] sending to process[0]
+Process 1: sending results...
+matsnd: rows=2210
+matsnd: cols=3851
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=25532146
+
+Process 1: receiving results...
+matrcv: Count=25532146
+matrcv: rows=2210
+matrcv: cols=3851
+matrcv: type=16
+============= processor[0]============ loading image... active processors:4   size 0: [3850 x 2196] size 1: [3851 x 2210]
+Finding features...
+============= processor[2]============ loading image... /nobackup/rrramir2/16/img_11.jpg   size 0: [3840 x 2193] size 1: [3840 x 2160]
+Finding features...
+Features in image #1: 10159
+Features in image #1: 10156
+Features in image #2: 10193
+Finding features, time: 2.52529 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.0194522 sec
+Pairwise matching, time: 0.0194702 s
+Warping images (auxiliary)... 
+######Try_cuda: warp_type == plane;
+Warping images, time: 0.00283426 s
+Compensating exposure...
+Compensating exposure, time: 3.988e-06 s
+Finding seams...
+Features in image #2: 10405
+Finding features, time: 2.56564 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Finding seams, time: 0.278864 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Pairwise matching, time: 0.274553 sec
+Pairwise matching, time: 0.274567 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00211673 s
+Compensating exposure...
+Compensating exposure, time: 3.582e-06 s
+Finding seams...
+Finding seams, time: 0.0612151 s
+Compositing...
+Compositing, time: 0.158979 s
+HERE
+process[0] receiving from process[2]
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.280766 s
+HERE
+process[2] receiving from process[3]
+Process 3: receiving results...
+matrcv: Count=25423891
+matrcv: rows=2187
+matrcv: cols=3875
+matrcv: type=16
+============= processor[2]============ loading image... active processors:4   size 0: [3844 x 2192] size 1: [3875 x 2187]
+Finding features...
+Features in image #1: 10142
+Features in image #2: 10379
+Finding features, time: 2.54854 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.272289 sec
+Pairwise matching, time: 0.272303 s
+Warping images (auxiliary)... 
+Warping images, time: 0.00213397 s
+Compensating exposure...
+Compensating exposure, time: 8.513e-06 s
+Finding seams...
+Finding seams, time: 0.249854 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.28526 s
+HERE
+process[2] sending to process[0]
+Process 1: sending results...
+matsnd: rows=2276
+matsnd: cols=3869
+matsnd: type=16
+matsnd: channels=3
+matsnd: bytes=26417548
+
+Process 2: receiving results...
+matrcv: Count=26417548
+matrcv: rows=2276
+matrcv: cols=3869
+matrcv: type=16
+============= processor[0]============ loading image... active processors:2   size 0: [3861 x 2259] size 1: [3869 x 2276]
+Finding features...
+Features in image #1: 9782
+Features in image #2: 9942
+Finding features, time: 2.4649 s
+Pairwise matching######Try_CUDA:range_width==-1
+makePtr<BestOf2NearestMatcher>(try_cuda, match_conf)
+Pairwise matching, time: 0.0197664 sec
+Pairwise matching, time: 0.0197845 s
+Warping images (auxiliary)... 
+######Try_cuda: warp_type == plane;
+Warping images, time: 0.00315506 s
+Compensating exposure...
+Compensating exposure, time: 4.492e-06 s
+Finding seams...
+Finding seams, time: 0.232533 s
+Compositing...
+######Try_CUDA
+blender = Blender::createDefault(blend_type, try_cuda);
+######Try_CUDA: blend_width < 1.f
+blender = Blender::createDefault(Blender::NO, try_cuda); 
+Compositing, time: 0.192682 s
+process_0 ------------ Finished, total time : 24.6988 s------------
+process_2 ------------ Finished, total time : 24.8576 s------------
+process_1 ------------ Finished, total time : 24.8662 s------------
+process_3 ------------ Finished, total time : 24.9715 s------------
+
+____________________________________________________________________
+Job Resource Usage Summary for 92367.pbspl4.nas.nasa.gov
+
+    CPU Time Used            : 00:00:00
+    Real Memory Used         : 0b
+    Walltime Used            : 00:00:33
+    Exit Status              : 0
+
+    Memory Requested         : 256gb
+    Number of CPUs Requested : 4
+    Walltime Requested       : 00:10:00
+
+    Execution Queue          : v100
+    Charged To               : n2018
+
+    Job Stopped              : Tue Mar 28 10:54:14 2023
+____________________________________________________________________
